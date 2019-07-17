@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "132692263367",
+    "firebase_url": "https://my-ionic-apps.firebaseio.com",
+    "project_id": "my-ionic-apps",
+    "storage_bucket": "my-ionic-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132692263367:android:17fe931ec62bb778",
+        "android_client_info": {
+          "package_name": "co.ke.codepoet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132692263367-tprcnskvubd8qo7o8kj1180idkh75agr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_DQU79cYuoDvEus4ljNmIZ0eAzwQBJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132692263367-tprcnskvubd8qo7o8kj1180idkh75agr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132692263367:android:ecbfb6aa3fbc927d",
+        "android_client_info": {
+          "package_name": "com.realchat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132692263367-tprcnskvubd8qo7o8kj1180idkh75agr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_DQU79cYuoDvEus4ljNmIZ0eAzwQBJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132692263367-tprcnskvubd8qo7o8kj1180idkh75agr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
