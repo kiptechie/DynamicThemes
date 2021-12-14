@@ -40,7 +40,7 @@
     "core-js": "^2.6.10",
     "firebase": "^6.6.2",
     "gulp": "^4.0.2",
-    "rxjs": "6.2.2",
+    "rxjs": "6.6.7",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
