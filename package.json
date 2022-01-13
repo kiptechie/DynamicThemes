@@ -29,7 +29,7 @@
     "@types/color": "^3.0.0",
     "angularfire2": "^5.2.1",
     "color": "^3.1.2",
-    "cordova-android": "8.0.0",
+    "cordova-android": "9.0.0",
     "cordova-plugin-device": "^2.0.3",
     "cordova-plugin-firebase": "2.0.5",
     "cordova-plugin-ionic-webview": "4.1.0",
