@@ -13,7 +13,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^6.1.10",
+    "@angular/common": "^19.2.16",
     "@angular/core": "^8.2.12",
     "@angular/forms": "^6.1.10",
     "@angular/http": "^6.1.10",
